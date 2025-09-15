@@ -47,15 +47,15 @@
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=fevangelista439&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Felipe-ea&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fevangelista439&theme=radical&show_icons=true&count_private=true" width="46%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-ea&theme=radical&show_icons=true&count_private=true" width="46%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fevangelista439&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-ea&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="Streak Stats" />
 </div>
 
 ---
@@ -65,19 +65,13 @@
 ### 🔸 Portfólio Pessoal
 **Descrição:** Portfólio com tema escuro, animações (partículas) e avatar responsivo.  
 **Tech:** HTML, Tailwind, JS.  
-**Demo:** `https://seu-portfolio.exemplo` • **Repo:** `https://github.com/fevangelista439/portfolio`
+**Demo:** `https://seu-portfolio.exemplo` • **Repo:** `https://github.com/Felipe-ea/portfolio`
 
 ### 🔸 RPG 2D (Browser)
 **Descrição:** Jogo 2D em pixel art, exploração, NPCs com perguntas e ranking online. Mobile first.  
 **Tech:** JavaScript, Canvas, Godot (prototipagem).  
-**Repo:** `https://github.com/fevangelista439/rpg-2d`
+**Repo:** `https://github.com/Felipe-ea/rpg-2d`
 
-### 🔸 DoceBuilder — App interativo
-**Descrição:** Simulador de camadas de doces (React + SVG) com texturas realistas.  
-**Tech:** React, Tailwind, SVG.  
-**Demo:** `https://docebuilder.exemplo` • **Repo:** `https://github.com/fevangelista439/docebuilder`
-
-> 💡 Dica: destaque seus repositórios fixando-os no seu perfil do GitHub (pinned repositories).
 
 ---
 
@@ -86,13 +80,6 @@
 - 🔗 LinkedIn: [devfelipesilva](https://linkedin.com/in/devfelipesilva)  
 - 🌐 Portfolio: `https://seu-portfolio.exemplo`  
 - ⚙️ Empresa / Marca: **Code Labs**
-
----
-
-## 📌 Pequenas instruções
-- Se o seu usuário no GitHub for diferente de `fevangelista439`, troque todas as ocorrências de `fevangelista439` no README (badges / stats / trophies / streak) pelo seu usuário real.  
-- Substitua URLs de demo/repos por links reais dos seus projetos.  
-- Quer eu gere uma versão em inglês ou com outra paleta de cores? Me fala que eu adapto na hora!
 
 ---
 
