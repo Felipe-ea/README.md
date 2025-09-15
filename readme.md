@@ -9,16 +9,9 @@
   <a href="https://linkedin.com/in/devfelipesilva" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.code-labs.example" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Code%20Labs-101820?style=for-the-badge" alt="Code Labs" />
-  </a>
 </div>
 
 ---
-
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding" width="48%" />
-</div>
 
 <div align="left">
   <h3>💻 Sobre mim</h3>
@@ -39,8 +32,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,nodejs,react,tailwind,postgres" width="80%" alt="skills" />
 
   <h3>📖 Atualmente estudando</h3>
-  <img src="https://skillicons.dev/icons?i=react,postgres,godot" width="18%" alt="estudando" />
-  <p>React avançado, Postgres para produção e Godot para ampliar meus jogos 2D.</p>
+  <img src="https://skillicons.dev/icons?i=react,postgres,nodejs,laravel" width="18%" alt="estudando" />
+  <p>React avançado, Postgres para produção e nodejs para melhorar minhas habilidades.</p>
 </div>
 
 ---
