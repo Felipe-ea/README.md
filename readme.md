@@ -71,8 +71,7 @@
 ## 📫 Contato
 - ✉️ Email: [fevangelista439@gmail.com](mailto:fevangelista439@gmail.com)  
 - 🔗 LinkedIn: [devfelipesilva](https://linkedin.com/in/devfelipesilva)  
-- 🌐 Portfolio: `https://seu-portfolio.exemplo`  
-- ⚙️ Empresa / Marca: **Code Labs**
+- 🌐 Portfolio: [Felipe Silva](https://portifolio-one-black-84.vercel.app/)
 
 ---
 
