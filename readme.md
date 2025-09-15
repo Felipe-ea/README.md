@@ -74,7 +74,3 @@
 - 🌐 Portfolio: [Felipe Silva](https://portifolio-one-black-84.vercel.app/)
 
 ---
-
-<div align="center">
-  Made with ❤️ • <em>Felipe Evangelista</em>
-</div>
