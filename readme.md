@@ -29,7 +29,7 @@
   </ul>
 
   <h3>🔧 Minhas skills</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,nodejs,react,tailwind,postgres" width="80%" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,nodejs,react,tailwind,postgres" width="50%" alt="skills" />
 
   <h3>📖 Atualmente estudando</h3>
   <img src="https://skillicons.dev/icons?i=react,postgres,nodejs,laravel" width="18%" alt="estudando" />
